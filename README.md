@@ -13,7 +13,7 @@ Requirements:
 
 ## Installation
 
-Upload the folder into the `/userdata/plugins` dir and enable it in the plugin dashboard.
+Upload the `disqus` folder into the `/userdata/plugins` dir and enable it in the plugin dashboard.
 
 ## Usage
 
