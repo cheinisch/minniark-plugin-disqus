@@ -14,3 +14,15 @@ Requirements:
 ## Installation
 
 Upload the folder into the `/userdata/plugins` dir and enable it in the plugin dashboard.
+
+## Usage
+
+To use the plugin in your post.twig file, you need only the following lines of code.
+```
+{% if plugin.disqus.enabled %}                    
+  {{ plugin.disqus.html|raw }}
+{% endif %}
+```
+
+© 2025 [Christian Heinisch](https://heimfisch.de)  
+Released under the [MIT license](https:/minniark.app/license)
