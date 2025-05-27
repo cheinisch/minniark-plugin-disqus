@@ -1,5 +1,4 @@
-# minniark-plugin-disqus
-Disqus Plugin for Minniark
+# Disqus Plugin for Minniark
 
 The Disqus plugin adds a comment section below blog posts using the [Disqus](https://disqus.com/) platform. It can be enabled globally and configured via a settings.json file, while individual posts can toggle comment visibility using a custom field.
 
