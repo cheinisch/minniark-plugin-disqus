@@ -2,7 +2,7 @@
   "name": "Disqus Integration",
   "author": "Christian Heinisch",
   "url":"https://heinisch-design.de",
-  "version": "0.1",
+  "version": "1.0",
   "settings": {
     "fields": [
       {
